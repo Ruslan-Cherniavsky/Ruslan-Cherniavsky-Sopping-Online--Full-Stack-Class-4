@@ -7,6 +7,3 @@ https://blue-spaceship-37886.postman.co/workspace/My-Workspace~5e5aa086-ff0b-404
 
 data base conection (https://cloud.mongodb.com/) -- 
 
-MONGO_USERNAME="Ruslan"
-MONGO_PASSWORD="a0iLhdD8156Jn4kX"
-
